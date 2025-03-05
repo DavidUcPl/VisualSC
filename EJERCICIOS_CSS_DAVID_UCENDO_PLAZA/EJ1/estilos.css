@@ -1,3 +1,22 @@
-body {
 
+/* 
+Nombre: [David Ucendo]
+Curso: [Asir1]
+Fecha: [5/3/2025]
+Ejercicio: [Selectores] 
+*/
+
+
+body { 
+    background-color: #b9aaaa;
+    font-family: Arial, sans-serif;
 }
+
+p {
+    color: rgb(255,72,0);
+}
+
+h1 {
+    margin: 20px;
+}
+
