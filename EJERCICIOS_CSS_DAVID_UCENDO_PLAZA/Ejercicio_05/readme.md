@@ -1,0 +1,1 @@
+En este ejercicio, el cual he buscado más información en internet y W3School (por eso a lo mejor hay algún atributo un poco extraño), he creado 6 items, los cuales al igual que en el anterior ejercicio, he transformado en cajas, las de arriba mas cortas que las de abajo, cada una con sus respectivos colores.
