@@ -4,3 +4,24 @@ Curso: [Asir1]
 Fecha: [5/3/2025]
 Ejercicio: [5] 
 */
+
+.grid-container {
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 100px 200px;
+    gap: 10px;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+
+}
+
+.grid-item {
+
+    display: flex;
+
+
+
+
+}
