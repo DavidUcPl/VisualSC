@@ -1,0 +1,1 @@
+En este ejercicio, he creado 3 div items en el index.html, junto al contenedor, de manera similar al anterior ejercicio para posteriormente modificarlos y transformarlos en cajas con sus respectivas características y colores en el archivo de estilos.css.
