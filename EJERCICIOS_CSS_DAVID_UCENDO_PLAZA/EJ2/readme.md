@@ -1,0 +1,1 @@
+Ejercicio básico, simplemente he copiado y pegado el código que se da en la tarea del aula virtual, en index.html, y modificado mediante selectores en estilos.css.
