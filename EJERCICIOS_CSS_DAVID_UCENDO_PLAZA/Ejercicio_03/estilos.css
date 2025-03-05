@@ -4,3 +4,17 @@ Curso: [Asir1]
 Fecha: [5/3/2025]
 Ejercicio: [Selectores] 
 */
+
+.caja {
+
+    width: 300px;
+    height: 150px;
+    background-color: yellow;            
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

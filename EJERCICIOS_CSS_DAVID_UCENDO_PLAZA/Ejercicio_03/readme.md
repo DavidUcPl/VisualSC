@@ -1,0 +1,1 @@
+En este ejercicio al igual que en los anteriores he enlazado ambos archivos, y he creado en index.html un div de caja, mientras que en el estilos.css, he buscado atributos en W3School para ayudarme a completar los requisitos de la caja.
