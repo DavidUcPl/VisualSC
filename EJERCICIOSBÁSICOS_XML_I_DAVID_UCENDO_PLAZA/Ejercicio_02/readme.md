@@ -1,0 +1,1 @@
+Muy similar al anterior, creamos un arbol, con un nodo raíz "hechos", a partir de ahí ponemos cada hecho de manera individal, acompañado de su atributo , después la fecha y ya la fecha al completo, día, mes y año.
