@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [17/03/2025]
+Ejercicio: [Ejercicio_03]
+-->
+
+<libros>
+
+    <libro titulo="Cien Años de Soledad" autor="George Owell" año="1949"/>
+    <libro titulo="La Invención de Morel" autor="Adolfo Bioy Casares" año="1940"/>
+    <libro titulo="Los Detectives Salvajes" autor="Roberto Bolaño" año="1998"/>
+    <libro titulo="El hombre en el castillo" autor="Philip K. Dick" año="1962"/>
+
+</libros>
