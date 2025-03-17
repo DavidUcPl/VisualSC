@@ -1,0 +1,1 @@
+En este, al igual que los anteriores, he creado el nudo raíz "empleados", a partir del cual surge cada empleado, cada uno con su nombre, apellido, edad, departamento y cargo, esta vez sin uso de atributos.
