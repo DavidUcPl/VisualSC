@@ -1,0 +1,1 @@
+He creado un árbol comenzando con el elemento raíz "ciudades", a partir de ahí surgen las ciudades, que son 3, de las cuales cada una está en un continente (atributo), cada ciudad con su nombre y país, sencillo.
