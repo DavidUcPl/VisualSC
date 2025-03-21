@@ -10,6 +10,7 @@ Ejercicio: [Ejercicio_01]
 
 <ciudades>
     <ciudad continente="Asia">
+<!--                    -->
         <nombre>Nueva Delhi</nombre>
         <pais>India</pais>
     </ciudad>
