@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [21/03/2025]
+Ejercicio: [Ejercicio_02]
+-->
+
+<marcadores>  <!-- Aquí creamos el nodo raíz -->
+
+    <marcador1> <!-- Hacemos 3 marcadores diferentes para cada uno -->
+
+        <nombre>W3School</nombre>
+        <descripcion>Tutoriales de Informática</descripcion>  <!-- Ya creamos 3 etiquetas para meter la información de cada marcador -->
+        <url>https://www.w3schools.com/</url>
+
+    </marcador1>
+    <marcador2>
+
+        <nombre>Wikipedia</nombre>
+        <descripcion>La enciclopedia</descripcion>
+        <url>http://www.wikipedia.org/</url>
+
+    </marcador2>
+    <marcador3>
+
+        <nombre>W3C</nombre>
+        <descripcion>World Wide Web Consortium</descripcion>
+        <url>http://www.w3.org/</url>
+
+    </marcador3>
+
+</marcadores>

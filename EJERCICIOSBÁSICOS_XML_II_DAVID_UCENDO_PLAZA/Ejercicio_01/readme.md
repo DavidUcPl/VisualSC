@@ -1,0 +1,1 @@
+Como ya he explicado en el index.xml, creamos el nodo raíz, 3 marcadores , uno para cada uno, y 3 etiquetas donde metemos la información necesaria, (nombre, descripción y url)
