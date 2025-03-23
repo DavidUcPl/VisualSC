@@ -1,0 +1,1 @@
+Al igual que en los anteriores ejercicios, creamos el nodo raíz "modulo", donde tambien espeficamos sus características, después vamos con la rama de alumnos, donde ponemos todos los datos, y cerramos el nodo raíz.
