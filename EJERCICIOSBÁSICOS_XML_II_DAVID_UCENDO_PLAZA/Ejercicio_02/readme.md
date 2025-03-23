@@ -1,0 +1,1 @@
+Como ya he explicado en los comentarios, creamos nodo raíz, "futbol", a partir de ahí hacemos 2 árboles, divididos por "equipo", donde tendremos los 3 características del equipo, y después los 2 jugadores, con atributo principal de "posicion" y sus demás características.

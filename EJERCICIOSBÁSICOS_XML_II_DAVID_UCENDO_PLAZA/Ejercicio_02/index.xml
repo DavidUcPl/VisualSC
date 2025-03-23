@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [23/03/2025]
+Ejercicio: [Ejercicio_02]
+-->
+
+                                                                 <!-- Como elemento raíz principal, creamos "futbol" -->
+<futbol>
+    <equipo>                                                     <!-- Ahora hacemos el 1º Equipo con sus 3 atributos -->
+        <nombre> Real Madrid </nombre>
+        <ciudad> Madrid </ciudad>
+        <entrenador> Carlo Ancelotti </entrenador>
+
+        <jugadores>                                              <!-- Ahora los 2 jugadores, poniendo como atributo principal su posicion -->
+            <jugador posicion="delantero">                  
+                <nombre> Kylian Mbappé </nombre>
+                <nacionalidad> Francia </nacionalidad>
+            </jugador>
+
+            <jugador posicion="mediocentro">
+                <nombre> Jude Bellingham </nombre>
+                <nacionalidad> Inglaterra </nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+
+    <equipo>                                                     
+        <nombre> Manchester City </nombre>
+        <ciudad> Manchester </ciudad>
+        <entrenador> Pep Guardiola </entrenador>
+
+        <jugadores>                                              
+            <jugador posicion="delantero">                  
+                <nombre> Erling Haaland </nombre>
+                <nacionalidad> Noruega </nacionalidad>
+            </jugador>
+
+            <jugador posicion="mediocentro">
+                <nombre> Kevin de Bruyne </nombre>
+                <nacionalidad> Bélgica </nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</futbol>

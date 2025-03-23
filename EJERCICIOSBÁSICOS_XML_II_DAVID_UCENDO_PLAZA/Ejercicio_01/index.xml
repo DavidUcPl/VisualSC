@@ -4,12 +4,12 @@
 Nombre: [David Ucendo Plaza]
 Curso: [ASIR1]
 Fecha: [21/03/2025]
-Ejercicio: [Ejercicio_02]
+Ejercicio: [Ejercicio_01]
 -->
 
-<marcadores>  <!-- Aquí creamos el nodo raíz -->
+<marcadores>                                                  <!-- Aquí creamos el nodo raíz -->
 
-    <marcador1> <!-- Hacemos 3 marcadores diferentes para cada uno -->
+    <marcador1>                                               <!-- Hacemos 3 marcadores diferentes para cada uno -->
 
         <nombre>W3School</nombre>
         <descripcion>Tutoriales de Informática</descripcion>  <!-- Ya creamos 3 etiquetas para meter la información de cada marcador -->
