@@ -1,0 +1,1 @@
+Muy similar al anterior, esta vez creamos el nodo raíz "recetacocina", donde habrá 2 ramas principales, los "ingredientes" cada uno especificado con el atributo de cantidad, junto a la otra rama "proceso", donde se dicen los pasos necesarios de la receta.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [23/03/2025]
+Ejercicio: [Ejercicio_03]
+-->
+
+<recetacocina>                                                                              
+    <receta nombre="Sopa de Cebolla">                                                       <!-- Creamos el nodo raíz "recetacocina"  -->
+
+        <personas>4</personas>
+        <ingredientes>                                                                      <!-- Igual con "ingredientes, esta vez con el atributo cantidad"  -->
+            <ingrediente cantidad="1 KG"> Cebollas </ingrediente>
+            <ingrediente cantidad="2 Litros"> Caldo de Carne </ingrediente>
+            <ingrediente cantidad="100 Gr"> Mantequilla </ingrediente>
+            <ingrediente cantidad="1 Cucharada"> Harina </ingrediente>
+            <ingrediente cantidad="100 Gr"> Queso Emmental </ingrediente>
+            <ingrediente cantidad="Al Gusto"> Pan Tostado en Rebanadas </ingrediente>   
+            <ingrediente cantidad="Al Gusto"> Tomillo </ingrediente>  
+            <ingrediente cantidad="1 Hoja"> Laurel </ingrediente>            
+            <ingrediente cantidad="Al Gusto"> Pimienta </ingrediente>  
+        </ingredientes>
+        <proceso>                                                                          <!-- Creamos otra rama para especificar el proceso  -->
+            <paso>1. Pelar y partir las cebollas en rodajas finas. </paso>
+            <paso>2. Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.</paso>
+            <paso>3. Añadir la harina sin dejar de remover.</paso>
+            <paso>4. Ponerlo en una cazuela con el caldo, el tomillo y el laurel.</paso>
+            <paso>5. Dejar cocer a fuego lento durante unos 15 minutos.</paso>
+            <paso>6. Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</paso>
+        </proceso>
+    </receta>
+</recetacocina>
