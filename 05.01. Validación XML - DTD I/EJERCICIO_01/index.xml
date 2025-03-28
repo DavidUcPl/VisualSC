@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [28/03/2025]
+Ejercicio: [Ejercicio_01]
+-->
+
+
+<!DOCTYPE biblioteca [
+    <!ELEMENT biblioteca (libro)>                                    <!-- Aquí creamos todos los elementos necesarios para las ramas -->                           
+    <!ELEMENT libro (titulo, editorial, autor, paginas)>             <!-- Aquí un elemento con subelementos, para poner las características del libro -->  
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ELEMENT autor (nombre, apellidos)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT apellidos (#PCDATA)>
+    <!ELEMENT paginas (#PCDATA)>            
+]>
+
+<biblioteca>
+   <libro id="Libro1">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <editorial>Francisco de Robles</editorial>
+        <autor>
+            <nombre>Miguel</nombre>
+            <apellidos>de Cervantes</apellidos>
+        </autor>
+        <paginas>863</paginas>
+    </libro>
+    
+    <libro id="Libro2">
+        <titulo>Orgullo y prejuicio</titulo>
+        <editorial>T. Egerton</editorial>
+        <autor>
+            <nombre>Jane</nombre>
+            <apellidos>Austen</apellidos>
+        </autor>
+        <paginas>432</paginas>
+    </libro>
+    
+    <libro id="Libro3">
+        <titulo>Crimen y castigo</titulo>
+        <editorial>El Mensajero Ruso</editorial>
+        <autor>
+            <nombre>Fiódor</nombre>
+            <apellidos>Dostoievski</apellidos>
+        </autor>
+        <paginas>671</paginas>
+    </libro>
+</biblioteca>
