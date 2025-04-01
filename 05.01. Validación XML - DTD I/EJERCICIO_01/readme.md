@@ -1,0 +1,1 @@
+En este ejercicio aplicamos el uso de la declaración de elementos, así como sus subelementos, como en "libro", también declaramos el nodo raíz, de ambas maneras, tanto de elemento, como en DOCTYPE.

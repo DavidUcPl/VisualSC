@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [1/04/2025]
+Ejercicio: [Ejercicio_02]
+-->
+
+<liga>
+    <jugador>
+        <nombre>Tyrese</nombre>
+        <apellidos>Haliburton</apellidos>
+        <equipo>
+            <nombre>Pacers</nombre>
+            <ciudad>Indiana</ciudad>
+            <presidente>
+                <nombrePresidente>Herb</nombrePresidente>
+                <apellidosPresidente>Simon</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>24</edad>
+    </jugador>
+    
+    <jugador>
+        <nombre>Jalen</nombre>
+        <apellidos>Brunson</apellidos>
+        <equipo>
+            <nombre>Knicks</nombre>
+            <ciudad>New York</ciudad>
+            <presidente>
+                <nombrePresidente>Leon</nombrePresidente>
+                <apellidosPresidente>Rose</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>27</edad>
+    </jugador>
+    
+    <jugador>
+        <nombre>Desmond</nombre>
+        <apellidos>Bane</apellidos>
+        <equipo>
+            <nombre>Grizzlies</nombre>
+            <ciudad>Memphis</ciudad>
+            <presidente>
+                <nombrePresidente>Jason</nombrePresidente>
+                <apellidosPresidente>Wexler</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>26</edad>
+    </jugador>
+</liga>
+
