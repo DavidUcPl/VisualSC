@@ -1,0 +1,1 @@
+En este ejercicio, hemos llevado a cabo la creación de una DTD externa privada, enlazando ambos archivos y creando los elementos y sus subelementos necesarios para la liga de baloncesto.

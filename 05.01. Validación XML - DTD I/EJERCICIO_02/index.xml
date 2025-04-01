@@ -7,6 +7,8 @@ Fecha: [1/04/2025]
 Ejercicio: [Ejercicio_02]
 -->
 
+<!DOCTYPE liga SYSTEM "index.dtd">       <!-- Enlazamos el otro archivo DTD-->
+ 
 <liga>
     <jugador>
         <nombre>Tyrese</nombre>
