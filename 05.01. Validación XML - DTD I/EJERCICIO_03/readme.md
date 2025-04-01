@@ -1,0 +1,1 @@
+Al igual que en el anterior, creamos ambos archivos, copiamos el código aportado en el ejercicio, y declaramos los elementos necesarios.
