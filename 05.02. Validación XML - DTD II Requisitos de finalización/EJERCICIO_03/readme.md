@@ -1,0 +1,1 @@
+Similar a los anteriores ejercicios, unimos el archivo DTD al principal, donde hemos creado un árbol a partir de los elementos y sus atributos declarados en la DTD, de manera que organizamos la tabla propuesta en el ejercicio en el diagrama de árbol.
