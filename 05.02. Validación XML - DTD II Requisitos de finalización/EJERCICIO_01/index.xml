@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [2/04/2025]
+Ejercicio: [Ejercicio_01]
+-->
+
+<!DOCTYPE factura SYSTEM "index.dtd">
+
+<factura numero="F12346" fecha="2025-04-03">
+    <datos-emisor>
+        <nombre>Librería del Centro</nombre>
+        <cif>LC98765432</cif>
+        <telefono>111222333</telefono>
+    </datos-emisor>
+
+    <datos-cliente>
+        <nombre>Biblioteca Universitaria</nombre>
+        <cif>BU12345678</cif>
+        <telefono>444555666</telefono>
+    </datos-cliente>
+
+    <detalle-factura importe="105.00">
+        <linea codigo-articulo="B001" tipo="Libro">
+            <descripcion>Cien años de soledad</descripcion>
+            <cantidad>1</cantidad>
+            <pvp>30.00</pvp>
+            <oferta/>
+        </linea>
+        <linea codigo-articulo="B002" tipo="DVD">
+            <descripcion>Documental Histórico</descripcion>
+            <cantidad>2</cantidad>
+            <pvp>25.00</pvp>
+        </linea>
+        <linea codigo-articulo="B003" tipo="Varios">
+            <descripcion>Cuadernos de notas</descripcion>
+            <cantidad>4</cantidad>
+            <pvp>6.25</pvp>
+        </linea>
+    </detalle-factura>
+</factura>

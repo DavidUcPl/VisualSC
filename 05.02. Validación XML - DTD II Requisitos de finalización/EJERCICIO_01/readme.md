@@ -1,0 +1,1 @@
+En este ejercicio volvemos a utilizar la DTD, de manera que en esta declaramos los elementos que usamos en el index.xml, donde se crea el árbol principal, en este hemos creado una factura, dividida en los datos del cliente y los detalles de la propia factura.
