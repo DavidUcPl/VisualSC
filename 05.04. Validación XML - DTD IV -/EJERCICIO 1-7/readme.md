@@ -1,0 +1,1 @@
+Añadir una variable de "fecha de nacimiento", porque la que ya está declarada solo permite información escrita, no en números.

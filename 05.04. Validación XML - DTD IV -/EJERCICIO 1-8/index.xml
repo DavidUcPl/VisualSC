@@ -6,3 +6,24 @@ Curso: [ASIR1]
 Fecha: [2/04/2025]
 Ejercicio: [Ejercicio_1-8]
 -->
+
+<!DOCTYPE agenda [
+   <!ELEMENT agenda (contacto*)>
+   <!ELEMENT contacto (nombre, telefonofijo?, telefonomovil*)>
+   <!ELEMENT nombre (#PCDATA)>
+   <!ELEMENT telefonofijo (#PCDATA)>
+   <!ELEMENT telefonomovil (#PCDATA)>
+]>
+<agenda>
+   <contacto>
+      <nombre>Ayuntamiento</nombre>
+      <telefonofijo>918 100 100</telefonofijo>
+   </contacto>
+   <contacto>
+      <nombre>Emergencias</nombre>
+      <telefonofijo>911</telefonofijo>
+      <telefonomovil>9112 (único de Europa)</telefonomovil>
+      <telefonomovil>Desconocido</telefonomovil>
+   </contacto>
+</agenda>
+

@@ -1,0 +1,1 @@
+Añadimos el "*" a "cuerpo, de sistema solar", ya que contiene más de un elemento.

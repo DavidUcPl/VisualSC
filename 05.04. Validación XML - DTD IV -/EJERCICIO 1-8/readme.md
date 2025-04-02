@@ -1,0 +1,1 @@
+Error en el uso de "telefono movil" y "telefono fijo", y desorden en el uso de las variables en el código XML.
