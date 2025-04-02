@@ -1,0 +1,1 @@
+Añadimos al elemento "letra", el signo "+", ya que letras, va a contener más de una "letra".

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [2/04/2025]
+Ejercicio: [Ejercicio_1-5]
+-->
+
+<!DOCTYPE animales [
+   <!ELEMENT animales (perro*, gato*)>
+   <!ELEMENT perro (#PCDATA)>
+   <!ELEMENT gato (#PCDATA)>
+]>
+<animales>
+   <perro>Caniche</perro>
+   <gato>Siamés</gato>
+</animales>

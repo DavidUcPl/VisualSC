@@ -1,0 +1,1 @@
+Faltaba declarar el elemento "numero", ya que el otro numero, es PCDATA indica q solo puede haber texto.

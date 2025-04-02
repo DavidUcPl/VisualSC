@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [2/04/2025]
+Ejercicio: [Ejercicio_1-2]
+-->
+
+<!DOCTYPE letras [
+   <!ELEMENT letras (letra+)>
+   <!ELEMENT letra (#PCDATA)>
+]>
+<letras>
+   <letra>m</letra>
+   <letra>ve doble</letra>
+</letras>

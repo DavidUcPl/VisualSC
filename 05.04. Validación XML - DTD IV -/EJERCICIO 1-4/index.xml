@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [2/04/2025]
+Ejercicio: [Ejercicio_1-4]
+-->
+
+<!DOCTYPE flores [
+   <!ELEMENT flores (flor)>
+   <!ELEMENT flor (#PCDATA)>
+]>
+<flores>
+   <flor>Rosa</flor>
+</flores>

@@ -1,0 +1,1 @@
+En este, las variables perro y gato, no estaban declaradas, por ello las he añadido a animal, y posteriormente declarado.

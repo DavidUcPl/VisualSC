@@ -1,0 +1,1 @@
+Al igual que en el anterior, hay varios "color", por ello añadimos el "+", y el texto "negro", no estaba dentro de ninguna etiqueta.
