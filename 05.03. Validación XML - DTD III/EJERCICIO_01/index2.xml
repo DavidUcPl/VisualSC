@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [2/04/2025]
+Ejercicio: [Ejercicio_01]
+-->
+
+<!DOCTYPE cuento SYSTEM "index.dtd">
+
+<cuento cod="D02" titulo="El Concurso de Baile" genero="comedia">
+    <personajes>
+        <personaje id="p1" tipo="principal" genero="M">
+            <nombre>Tomás</nombre>
+            <descripcion_fisica>De estatura baja, con gafas grandes y siempre sonriente.</descripcion_fisica>
+            <descripcion_fisica>Viste con ropa llamativa, como una camisa de colores brillantes y pantalones ajustados.</descripcion_fisica>
+        </personaje>
+        <personaje id="p2" tipo="secundario" genero="F">
+            <nombre>María</nombre>
+            <descripcion_fisica>Alta, con cabello rizado y una gran sonrisa.</descripcion_fisica>
+            <descripcion_fisica>Usa siempre zapatos de tacón, lo que la hace aún más divertida en sus movimientos.</descripcion_fisica>
+        </personaje>
+    </personajes>
+    <trama>Tomás y María participan en un concurso de baile donde, por accidente, terminan creando un estilo propio que se convierte en el más popular. Sus torpes y divertidos movimientos hacen reír a todos, pero de alguna manera, se ganan el primer lugar.</trama>
+    <etiqueta nombre="comedia" />
+    <etiqueta nombre="bailes" />
+    <precio moneda="eur">4.99</precio>
+</cuento>
+

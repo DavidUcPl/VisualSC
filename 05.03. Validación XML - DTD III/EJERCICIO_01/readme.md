@@ -1,0 +1,1 @@
+En este ejercicio, hemos de crear 2 archivos XML, donde pondremos en cada uno un cuento, en ambos cuentos, tenemos las mismas variables/elementos, por ello hemos declarado ambas en el mismo documento DTD, está organizado de manera que he puesto de nodo raíz, "cuento", después la historia, y después el precio del libro. Siendo estos últimos atributos al ser más importante.

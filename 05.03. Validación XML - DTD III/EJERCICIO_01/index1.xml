@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [2/04/2025]
+Ejercicio: [Ejercicio_01]
+-->
+
+<!DOCTYPE cuento SYSTEM "index.dtd">
+
+<cuento cod="C01" titulo="El Susurro en la Oscuridad" genero="terror">
+    <personajes>
+        <personaje id="p1" tipo="principal" genero="M">
+            <nombre>Fernando</nombre>
+            <descripcion_fisica>Alto, de cabello corto y oscuro, con una cicatriz en la mejilla.</descripcion_fisica>
+            <descripcion_fisica>Viste ropa oscura, siempre tiene una expresión seria.</descripcion_fisica>
+        </personaje>
+        <personaje id="p2" tipo="secundario" genero="F">
+            <nombre>Laura</nombre>
+            <descripcion_fisica>Piel clara, ojos azules, cabello largo y rubio.</descripcion_fisica>
+            <descripcion_fisica>Siempre parece estar nerviosa, con un aire de temor constante.</descripcion_fisica>
+        </personaje>
+    </personajes>
+    <trama>En una casa aislada en el bosque, Fernando y Laura deben enfrentar las misteriosas voces que escuchan en la oscuridad. Lo que parecía una noche tranquila se convierte en una lucha por sobrevivir a las presencias que habitan la casa.</trama>
+    <etiqueta nombre="horror" />
+    <etiqueta nombre="suspenso" />
+    <precio moneda="eur">6.50</precio>
+</cuento>
