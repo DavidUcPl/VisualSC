@@ -1,0 +1,1 @@
+En este ejercicio, similar al anterior, hemos creado el index.xml, donde hemos puesto el nodo raíz "Equipos NBA", con sus respectivos equipos y atributos, enlazado a la DTD, donde hemos declarado los elementos utilizados en el archivo mencionado anteriormente.

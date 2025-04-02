@@ -1,0 +1,10 @@
+    <!ELEMENT EquiposNBA (equipo+ | nombre+)>
+    
+    <!ELEMENT nombre (#PCDATA)>
+    
+    <!ELEMENT equipo (nombre, titulos, posicion, quinteto)>
+    <!ATTLIST equipo conferencia CDATA #REQUIRED>
+    
+    <!ELEMENT titulos (#PCDATA)>
+    <!ELEMENT posicion (#PCDATA)>
+    <!ELEMENT quinteto (#PCDATA)>

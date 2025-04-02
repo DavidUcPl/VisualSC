@@ -6,3 +6,28 @@ Curso: [ASIR1]
 Fecha: [2/04/2025]
 Ejercicio: [Ejercicio_02]
 -->
+
+<!DOCTYPE EquiposNBA SYSTEM "index.dtd">
+
+<EquiposNBA>
+    <equipo conferencia="Este">
+        <nombre>Miami Heat</nombre>
+        <titulos>3</titulos>
+        <posicion>6</posicion>
+        <quinteto>Jimmy Butler, Bam Adebayo, Tyler Herro, Kyle Lowry, Kevin Love</quinteto>
+    </equipo>
+    
+    <equipo conferencia="Oeste">
+        <nombre>Denver Nuggets</nombre>
+        <titulos>1</titulos>
+        <posicion>1</posicion>
+        <quinteto>Nikola Jokic, Jamal Murray, Michael Porter Jr., Aaron Gordon, Kentavious Caldwell-Pope</quinteto>
+    </equipo>
+    
+    <equipo conferencia="Oeste">
+        <nombre>Phoenix Suns</nombre>
+        <titulos>0</titulos>
+        <posicion>4</posicion>
+        <quinteto>Kevin Durant, Devin Booker, Bradley Beal, Jusuf Nurkic, Grayson Allen</quinteto>
+    </equipo>
+</EquiposNBA>
