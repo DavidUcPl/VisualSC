@@ -1,1 +1,1 @@
-Agregado el elemento "Apunte", "gasto" e "ingreso" y añadido el "+" para su correcto funcionamiento.
+únicamente he cambiado el elemento texto, para que pueda contener tanto PCDATA, como strong.

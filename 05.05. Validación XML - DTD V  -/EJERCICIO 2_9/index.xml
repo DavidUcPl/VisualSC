@@ -4,30 +4,31 @@
 Nombre: [David Ucendo Plaza]
 Curso: [ASIR1]
 Fecha: [3/04/2025]
-Ejercicio: [Ejercicio_2-8]
+Ejercicio: [Ejercicio_2-9]
 -->
 
-<!DOCTYPE contabilidad [
-<!ELEMENT contabilidad (apunte+)>
-<!ELEMENT apunte (fecha, cantidad, concepto)>
-<!ELEMENT fecha (#PCDATA)>
-<!ELEMENT cantidad (#PCDATA)>
-<!ELEMENT concepto (#PCDATA)>
-<!ELEMENT ingreso EMPTY>
-<!ELEMENT gasto EMPTY>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mensajes [
+<!ELEMENT mensajes (mensaje+)>
+<!ELEMENT mensaje (de, para, hora, texto)>
+<!ELEMENT de (#PCDATA)>
+<!ELEMENT para (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT texto (#PCDATA | strong)*>
+<!ELEMENT strong (#PCDATA)>
 ]>
 
-<contabilidad>
-    <apunte>
-        <ingreso />
-        <fecha>24 de febrero de 2011</fecha>
-        <cantidad>100.00 €</cantidad>
-        <concepto>Salario</concepto>
-    </apunte>
-    <apunte>
-        <gasto />
-        <fecha>28 de febrero de 2011</fecha>
-        <cantidad>74.15 €</cantidad>
-        <concepto>Recibo luz</concepto>
-    </apunte>
-</contabilidad>
+<mensajes>
+    <mensaje>
+        <de>Pepe (pepe@example.com)</de>
+        <para>Juan (juan@example.com)</para>
+        <hora>28/02/2011 17:48:23,61</hora>
+        <texto>¿Hola, Juan, qué haces?</texto>
+    </mensaje>
+    <mensaje>
+        <de>Juan (juan@example.com)</de>
+        <para>Pepe (pepe@example.com)</para>
+        <hora>28/02/2011 17:54:20,87</hora>
+        <texto>Aquí, aprendiendo <strong>XML</strong></texto>
+    </mensaje>
+</mensajes>
