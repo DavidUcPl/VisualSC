@@ -1,0 +1,1 @@
+En esta parte, es necesario cambiar el orden de la estructura XML de "origen y destino", por ello añadimos en la DTD, un "|", lo cual permite que en la estructura XML se pueda cambiar el orden como se quiera.

@@ -1,0 +1,1 @@
+Faltaba añadir un valor a la etiqueta "cerrado" en el código XML.

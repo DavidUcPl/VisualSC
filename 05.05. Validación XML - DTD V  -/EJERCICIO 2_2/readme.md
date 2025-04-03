@@ -1,0 +1,1 @@
+Al igual que en el anterior, solo he tenido que añadir un "+" a la declaración de "efemeride", permitiendo más de un elemento en el XML.

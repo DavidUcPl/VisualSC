@@ -1,0 +1,1 @@
+Agregada la declaración de código, y lo modifico para que aparezca rgb y cmyk aparezcan ambos o alguno.

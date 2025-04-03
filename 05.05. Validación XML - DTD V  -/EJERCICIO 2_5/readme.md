@@ -1,0 +1,1 @@
+El DTD especifica que reyesEspañoles debe contener elementos rey y reina, pero en el XML hay dos elementos, y permitir el cambio del orden de nombre, padre, madre.

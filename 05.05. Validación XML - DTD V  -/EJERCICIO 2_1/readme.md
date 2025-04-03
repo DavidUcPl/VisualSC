@@ -1,0 +1,1 @@
+En este ejercicio, únicamente he añadido el signo "+" a la declaración de "favoritos", ya que existe más de uno.
