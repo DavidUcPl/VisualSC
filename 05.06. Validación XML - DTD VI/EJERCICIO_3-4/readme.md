@@ -1,0 +1,1 @@
+Aqui cambio "leche" y "pan", por "item", agregando las características correspodientes a "nombre".

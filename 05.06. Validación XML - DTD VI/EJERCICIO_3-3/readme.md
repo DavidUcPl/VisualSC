@@ -1,0 +1,1 @@
+Cambio el segundo "cuadro", que tiene "autor", por "titulo", ya que habia 2 titulos iguales.

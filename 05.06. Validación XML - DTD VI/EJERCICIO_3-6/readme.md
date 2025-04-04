@@ -1,0 +1,1 @@
+El elemento nombre, contiene el atributo MKTOKENS, lo cual no permite que se escriban los nombres de los jugadores con espacios en blanco, por ello he puesto barras bajas para eliminar esos espacios.

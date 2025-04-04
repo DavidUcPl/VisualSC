@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [3/04/2025]
+Ejercicio: [Ejercicio_3-1]
+-->
+
+<!DOCTYPE persona [
+<!ELEMENT persona EMPTY>
+<!ATTLIST persona nombre CDATA #IMPLIED>
+]>
+
+<persona nombre="Juan Pérez" />

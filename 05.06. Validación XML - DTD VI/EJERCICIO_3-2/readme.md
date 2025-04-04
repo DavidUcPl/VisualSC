@@ -1,0 +1,1 @@
+Elimino "genero", ya que no está declarado en la DTD.
