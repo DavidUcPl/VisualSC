@@ -1,0 +1,1 @@
+Poner "EMPTY" en "album", y "CDATA", en "fecha".

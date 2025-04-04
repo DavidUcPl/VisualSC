@@ -1,0 +1,1 @@
+Cambiamos el "EMPTY" de resoluciones, a "resolucion+" para poder tener más de uno, y el "MKTOKEN", de nombre, lo cambiamos a "CDATA".

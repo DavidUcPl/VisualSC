@@ -1,0 +1,1 @@
+Cambio MKTOKEN en la declaración de autor, por CDATA.

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: [David Ucendo Plaza]
+Curso: [ASIR1]
+Fecha: [4/04/2025]
+Ejercicio: [Ejercicio_4-2]
+-->
+
+<!DOCTYPE inventores [
+<!ELEMENT inventores (inventor*)>
+<!ELEMENT inventor EMPTY>
+<!ATTLIST inventor invento CDATA #REQUIRED>
+<!ATTLIST inventor nombre CDATA #REQUIRED>
+]>
+<inventores>
+    <inventor nombre="Robert Adler" invento="Mando a distancia" />
+    <inventor nombre="Laszlo Josef Biro" invento="Bolígrafo" />
+    <inventor nombre="Josephine Garis Cochran" invento="Lavaplatos" />
+    <inventor nombre="Fuego" invento="Fuego" />
+</inventores>
