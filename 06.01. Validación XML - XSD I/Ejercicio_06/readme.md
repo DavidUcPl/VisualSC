@@ -1,0 +1,1 @@
+Añadida la declaración para aceptar tanto mayúsculas, como minúsculas.
