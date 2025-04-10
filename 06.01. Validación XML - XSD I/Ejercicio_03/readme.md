@@ -1,0 +1,1 @@
+En este ejercicio, creamos la XSD del fichero XML aportado, donde incluimos 2 comandos indicados en el ejercicio, para poner un límite de decimales, totaldigits, y fractiondigits.
