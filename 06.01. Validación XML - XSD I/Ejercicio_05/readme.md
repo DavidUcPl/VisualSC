@@ -1,0 +1,1 @@
+Los errores más relevantes son, el patrón de letras, a "AMR", y en "PRP", también algunos errores de orden, y una declaración que no permite el uso de mayúsculas "nombre".
