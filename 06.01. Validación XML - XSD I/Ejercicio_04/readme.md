@@ -1,0 +1,1 @@
+únicamente he creado un elemento "vehiculo", declarado como "Tipovehiculo", de esta manera reutilizamos las restricciones de los demás valores.
