@@ -1,0 +1,1 @@
+Ejercicio muy similar al anterior, el único cambio relevante es que he establecido un límite en la restricción de edad para que no sea ni menor que 0, ni mayor de 130.
