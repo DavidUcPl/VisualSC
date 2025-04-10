@@ -1,0 +1,1 @@
+En este ejercicio he creado un fichero XSD enlazado al XML desde 0, en este fichero, he creado el nodo raíz "fichas", junto a sus correspondientes elemento, como nombre (string), edad y número (integer).
