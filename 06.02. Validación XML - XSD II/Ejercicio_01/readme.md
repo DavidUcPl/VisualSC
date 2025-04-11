@@ -1,0 +1,1 @@
+La única modificación ha sido, cambiar el pattern de letras, a enumeration, siendo así otra manera de poder poner un intervalo de letras.
