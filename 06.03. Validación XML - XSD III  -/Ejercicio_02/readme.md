@@ -1,0 +1,1 @@
+Fichero XSD declarado, incluyendo las declaraciones pedidas en el ejercicio, minlength, y maxlength.

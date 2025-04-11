@@ -1,0 +1,1 @@
+Los dos son muy similares, únicamente, en el que solo hay un pattern, juntamos el [10], que pertenecía al lenght.
