@@ -1,0 +1,1 @@
+Defino un par, una mayúscula seguida de una minúscula, junto al + , que indica que debe haber uno o más pares así.
