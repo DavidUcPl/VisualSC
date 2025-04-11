@@ -1,0 +1,1 @@
+Precio.xsd cambiado por articulos.xsd, así como toda la estructura de precio por artículo, junto a la adición del atributo moneda, lo demás cambios indiferentes.

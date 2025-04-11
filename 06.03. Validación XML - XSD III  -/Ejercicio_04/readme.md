@@ -1,0 +1,1 @@
+Creado, infoUbicacion, con elementos y atributos, metro y ubicacion, junto a diversas restricciones.

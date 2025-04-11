@@ -1,0 +1,1 @@
+Se declara el elemento raíz muebles, junto a tipomueble, acompañado de diversas restricciones.
